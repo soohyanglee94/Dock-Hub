@@ -9,15 +9,15 @@ text{
 	font-size: 14px;
 }
 </style>
-  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-core.min.js" type="text/javascript"></script>
-  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-gantt.min.js" type="text/javascript"></script>
-  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-exports.min.js"></script>
-  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-ui.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.10.0/css/anychart-ui.min.css"/>
+  <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-core.min.js" type="text/javascript"></script>
+  <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-gantt.min.js" type="text/javascript"></script>
+  <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-exports.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-ui.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.11.0/css/anychart-ui.min.css"/>
   
-	<link rel="stylesheet" href="https://cdn.anychart.com/releases/8.10.0/fonts/css/anychart-font.min.css">
-	<script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-base.min.js"></script>
-	<script src="https://cdn.anychart.com/releases/8.10.0/locales/ko-kr.js"></script>
+	<link rel="stylesheet" href="https://cdn.anychart.com/releases/8.11.0/fonts/css/anychart-font.min.css">
+	<script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-base.min.js"></script>
+	<script src="https://cdn.anychart.com/releases/8.11.0/locales/ko-kr.js"></script>
   
   
   <script type="text/javascript">
